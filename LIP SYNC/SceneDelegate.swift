@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  LIP SYNC
 //
-//  Created by actionfi on 04/02/25.
+//  Created by Thaha on 04/02/25.
 //
 
 import UIKit
