@@ -292,6 +292,7 @@
 				DEVELOPMENT_TEAM = 8MJ8QZ5B96;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "LIP SYNC/Info.plist";
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "we need to use your microphone";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -320,6 +321,7 @@
 				DEVELOPMENT_TEAM = 8MJ8QZ5B96;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "LIP SYNC/Info.plist";
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "we need to use your microphone";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
